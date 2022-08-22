@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Welcome To kona's Portfolio
 
 You can use the [editor on GitHub](https://github.com/Kona34/Programing1Protfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
